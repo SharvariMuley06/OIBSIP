@@ -1,8 +1,8 @@
-# 📊 Oasis Infobyte Data Analytics Internship
+#  Oasis Infobyte Data Analytics Internship
 
 This repository contains the projects completed during my **Data Analytics Internship at Oasis Infobyte (OIBSIP)**. The projects demonstrate practical applications of data analysis, machine learning, and data visualization using Python.
 
-## 🚀 Projects
+##  Projects
 
 - 📈 EDA on Retail Sales Data
 - 👥 Customer Segmentation
@@ -13,7 +13,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 - 🛡️ Fraud Detection
 - 📱 Unveiling the Android App Market
 
-## 💻 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -23,7 +23,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Scikit-learn
 - Jupyter Notebook
 
-## 🎯 Key Concepts
+##  Key Concepts
 
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
@@ -37,5 +37,3 @@ This repository contains the projects completed during my **Data Analytics Inter
 
 Each project focuses on solving a real-world data analytics problem using industry-standard tools and techniques. The repository showcases practical experience in data preprocessing, visualization, statistical analysis, and machine learning.
 
----
-⭐ Feel free to explore the projects and provide your feedback.
